@@ -86,6 +86,9 @@ This script meticulously gathers the following data points from the target Windo
 6.  **Provide Case Details:** The script will prompt you for essential investigation details (Investigator Name, Case Name/ID, Location, Incident Description) via a user-friendly graphical interface.
 7.  **Review Output:** The script will create a timestamped folder (e.g., `Forensic_Data_YOURHOSTNAME_YYYY-MM-DD_HH-MM-SS`) in the same directory as the script. Inside, you'll find `forensic_log.txt` containing all collected data, organized by clear headings.
 
+<img width="1069" height="1013" alt="image" src="https://github.com/user-attachments/assets/05fa570d-2bff-490d-8145-2c9829f0b37e" />
+
+
 ---
 
 ## Important Considerations ⚠️
