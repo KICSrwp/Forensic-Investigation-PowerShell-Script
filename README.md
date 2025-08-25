@@ -72,7 +72,7 @@ This script meticulously gathers the following data points from the target Windo
 
 ## How to Use 🚀
 
-1.  **Download the Script:** Clone this repository or download the `ForensicCollector.ps1` script.
+1.  **Download the Script:** Clone this repository or download the `MyForesnicScript-GUI-Version.ps1` script.
 2.  **Run with Administrator Privileges:** Open PowerShell as an Administrator. This is crucial for collecting comprehensive system data.
 3.  **Navigate to Script Directory:** Change your directory to where you saved the script (e.g., `cd C:\Forensics\`).
 4.  **Set Execution Policy (if needed):** If you encounter an error, you might need to adjust your PowerShell execution policy:
@@ -81,7 +81,7 @@ This script meticulously gathers the following data points from the target Windo
     ```
 5.  **Execute the Script:**
     ```powershell
-    .\MyForesnicScript - GUI Version.ps1
+    .\MyForesnicScript-GUI-Version.ps1
     ```
 6.  **Provide Case Details:** The script will prompt you for essential investigation details (Investigator Name, Case Name/ID, Location, Incident Description) via a user-friendly graphical interface.
 7.  **Review Output:** The script will create a timestamped folder (e.g., `Forensic_Data_YOURHOSTNAME_YYYY-MM-DD_HH-MM-SS`) in the same directory as the script. Inside, you'll find `forensic_log.txt` containing all collected data, organized by clear headings.
