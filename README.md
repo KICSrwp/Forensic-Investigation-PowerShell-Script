@@ -81,7 +81,7 @@ This script meticulously gathers the following data points from the target Windo
     ```
 5.  **Execute the Script:**
     ```powershell
-    .\ForensicCollector.ps1
+    .\MyForesnicScript - GUI Version.ps1
     ```
 6.  **Provide Case Details:** The script will prompt you for essential investigation details (Investigator Name, Case Name/ID, Location, Incident Description) via a user-friendly graphical interface.
 7.  **Review Output:** The script will create a timestamped folder (e.g., `Forensic_Data_YOURHOSTNAME_YYYY-MM-DD_HH-MM-SS`) in the same directory as the script. Inside, you'll find `forensic_log.txt` containing all collected data, organized by clear headings.
